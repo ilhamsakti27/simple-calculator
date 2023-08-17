@@ -1,0 +1,26 @@
+#content {
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+  height: 100vh; 
+}
+.calculator {
+  background-color: #F1F2F3;
+}
+.btn {
+  height: 72px;
+  width: 72px;
+  background-color: #FFF;
+  border-radius: 24px;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40px;
+  margin: 8px;
+}
+.btn-operation {
+  width: 72px;
+  background-color: #D2D3DA;
+}
+.btn:hover {
+  background-color: #a3c7eb;
+}

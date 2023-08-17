@@ -1,0 +1,11 @@
+{
+  "name": "web-calculator",
+  "version": "1.0.0",
+  "description": "simple web calculator for assignment inosoft bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilhamsakti27",
+  "license": "ISC"
+}
